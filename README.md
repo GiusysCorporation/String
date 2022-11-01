@@ -6,7 +6,7 @@ It has a class for representing the strings with a dynamic length.
 
 **Requirements:**
 
-* Gius' Arrays (v1.1.0 or major).
+* Gius' Arrays (v1.1.1 or major).
 
 *N.B.: Here are indexed the requirements for the last release.*
 
