@@ -1,0 +1,5 @@
+Changes In Version 1.2.0:
+- Improved code style and reliability. Added more utility operators and functions to class Org::Gius::Strings::String.
+- Improved the workplace's scripts.
+- Modified 'Demo.cpp'.
+- Updated to standard internal project's files.
